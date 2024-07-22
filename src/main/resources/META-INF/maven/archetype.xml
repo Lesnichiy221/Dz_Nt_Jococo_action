@@ -1,0 +1,9 @@
+<archetype>
+  <id>DZ_Nt_jococo_action</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
